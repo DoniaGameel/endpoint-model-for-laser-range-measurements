@@ -4,7 +4,7 @@
 ## Part 1:
 Given is a 2D grid-map and a robot pose (x, y, θ):
 
-<img src="input.jpg" alt=" " >
+<img src="input.png" alt=" " >
 
 We find the map in the directory. Assuming that every pixel has a size of 4cm x 4cm.
 
