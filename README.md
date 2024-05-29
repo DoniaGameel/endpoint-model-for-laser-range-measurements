@@ -12,6 +12,7 @@ I Generated laser-range measurements for an opening angle of 250° (125° left a
 Using a maximum measurement range of 12m.
 
 results at: x = 320, y = 190, theta = 190:
+
 <img src="output/output_image.jpg" alt=" " >
 
 ## Part 2:
